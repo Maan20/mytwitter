@@ -1,4 +1,4 @@
-# Django Twitter Clone by Redian Marku
+# Django Twitter Clone by MAZ
 
 Fully functional Django App that looks ecxatly like real Twitter.
 
@@ -24,7 +24,7 @@ Demo Image:
 ## License
 MIT License
 
-Copyright (c) 2020 Redian Marku
+Copyright (c) 2021 By MAZ
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -44,7 +44,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Please Subscribe my YouTube Channel: <a href="https://www.youtube.com/channel/UCO5WiowKFnEw17AOk008WOQ" target="_blank">Top Notch Programmer</a>.
+Make Dua for Me 
 
-# Donate
-[![paypal](https://mk0mightycausebxdggx.kinstacdn.com/wp-content/uploads/2019/06/paypal-donate-button-high-quality-png.png)](https://www.paypal.me/redidev)
